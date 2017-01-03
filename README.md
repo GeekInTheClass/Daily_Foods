@@ -1,12 +1,13 @@
 # Daily_Food
        
-<<<<<<< HEAD
+> <img src=http://cfile3.uf.tistory.com/image/27238841555BFD8E2292AB>
+
 ## 1/3
 
 ### 밥, 국, 반찬
-=======
+
 우유 한 잔 빵 한 덩어리
->>>>>>> origin/master
+
 
 시금치
 고기
